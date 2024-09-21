@@ -14,6 +14,7 @@ func main() {
 	fmt.Println("Hello and welcome, %s!", s)
 
 	// base 1 updates
+	// base 2 updates
 
 	for i := 1; i <= 5; i++ {
 		//TIP You can try debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
